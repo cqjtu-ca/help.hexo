@@ -10,12 +10,18 @@ tags: 软件安装
 
 > ## 一、下载AutoCAD和注册机
 ### AutoCAD（包含注册机）各版本下载地址
-* AutoCAD 2010 : ( 32位: [天佑下载](http://down.cqjtu.edu.cn/view/282.html) | 64位: [天佑下载](http://down.cqjtu.edu.cn/view/525.html) )
-* AutoCAD 2012 : ( 64位: [超星网盘下载](http://pan-yz.chaoxing.com/share/info/aabd52a32fe55d84) | 32位 + 64位: [天佑下载](http://down.cqjtu.edu.cn/view/70.html) )
-* AutoCAD 2014 : ( 64位: [超星网盘下载](http://pan-yz.chaoxing.com/share/info/b10b27c2e039cc94) | 32位 + 64位: [天佑下载](http://down.cqjtu.edu.cn/view/468.html) )
-* AutoCAD 2016 : ( 64位: [超星网盘下载](http://pan-yz.chaoxing.com/share/info/5e7ef80bca205990) )
+* **AutoCAD 2010** : ( 32位: [天佑下载](http://down.cqjtu.edu.cn/view/282.html) | 64位: [天佑下载](http://down.cqjtu.edu.cn/view/525.html) )
+
+* **AutoCAD 2012** : ( 64位: [网盘下载](http://pan-yz.chaoxing.com/share/info/aabd52a32fe55d84) \ [备用下载](https://pan-yz.chaoxing.com/external/m/file/371286349641981952?name=AutoCAD_2012_Simplified_Chinese_Win_64bit_Trial.exe&appId=1000) | 32位 + 64位: [天佑下载](http://down.cqjtu.edu.cn/view/70.html) )
+* AutoCAD 2012 注册机 : ( 64位: [备用下载](https://pan-yz.chaoxing.com/external/m/file/369552319644999680?name=Autodesk2012%E6%B3%A8%E5%86%8C%E6%9C%BA.zip&appId=1000) )
+
+* **AutoCAD 2014** : ( 64位: [网盘下载](http://pan-yz.chaoxing.com/share/info/b10b27c2e039cc94) \ [备用下载](https://pan-yz.chaoxing.com/external/m/file/370118105182793728?name=AutoCAD_2014_Simplified_Chinese_Win_64bit_dlm.sfx.exe&appId=1000)  | 32位 + 64位: [天佑下载](http://down.cqjtu.edu.cn/view/468.html) )
+* AutoCAD 2014 注册机 : ( 64位: [备用下载](https://pan-yz.chaoxing.com/external/m/file/371286019478949888?name=Autodesk2014%E6%B3%A8%E5%86%8C%E6%9C%BA64%E4%BD%8D%E7%89%88.zip&appId=1000) )
+
+* **AutoCAD 2016** : ( 64位: [网盘下载](http://pan-yz.chaoxing.com/share/info/5e7ef80bca205990) \ [备用下载](https://pan-yz.chaoxing.com/external/m/file/370118132731105280?name=AutoCAD_2016_Simplified_Chinese_Win_64bit_dlm.sfx.exe&appId=1000) )
+* AutoCAD 2016 注册机 : ( 64位: [备用下载](https://pan-yz.chaoxing.com/external/m/file/371286171334897664?name=xf-adsk2016_x64.zip&appId=1000) )
 #### 提示：
-> * 超星网盘是超星学习通的一个功能，账号密码即超星学习通的账号密码。
+> * 网盘下载即超星网盘，是超星学习通的一个功能，账号密码即超星学习通的账号密码。（备用下载不需要登录超星账号，但是校园网可能无法访问）
 > * 天佑下载需要连接校园网WiFi（不登录校园网也能下载，而且速度可能更快，在教室下载网速可能更快）
 
 > ## 二、安装AutoCAD
@@ -90,5 +96,5 @@ tags: 软件安装
 
 <hr>
 
-[文章纠错](https://github.com/cqjtu-acm/article/issues) | 看不懂 | 投稿 | 提建议：477897024 (QQ群)
+[文章纠错](https://github.com/cqjtu-acm/help/issues) | 看不懂 | 投稿 | 提建议：477897024 (QQ群)
 

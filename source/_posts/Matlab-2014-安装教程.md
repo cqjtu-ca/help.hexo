@@ -94,5 +94,5 @@ Matlab 2014 安装教程
 
 <hr>
 
-[文章纠错](https://github.com/cqjtu-acm/article/issues) | 看不懂 | 投稿 | 提建议：477897024 (QQ群)
+[文章纠错](https://github.com/cqjtu-acm/help/issues) | 看不懂 | 投稿 | 提建议：477897024 (QQ群)
 

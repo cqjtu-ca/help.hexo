@@ -79,6 +79,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/cqjtu-acm/help.git
+  repo: https://github.com/cqjtu-ca/help.git
   branch: master
   message: Site updated:{{ now('YYYY-MM-DD HH:mm:ss') }})

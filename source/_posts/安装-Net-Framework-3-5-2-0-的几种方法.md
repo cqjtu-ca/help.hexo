@@ -37,14 +37,15 @@ tags: 软件安装
 
 ### 详细步骤：
 
-1. ***右键*** **"开始菜单" 按钮**，然后 ***点击*** **“Windows PowerShell(管理员)(A)”** 打开PowerShell程序
-
-<img src="./打开_Powershell.png" width="40%" />
-
-2. ***下载*** **microsoft-windows-netfx3-ondemand-package.cab** 文件（[下载地址 1](http://files.cqjtujx.club/microsoft-windows-netfx3-ondemand-package.cab) | [网盘下载](http://pan-yz.chaoxing.com/share/info/ba6356b3e7895cfe) 密码 : **740uqc**）,并把该文件 ***移动*** 到 **C盘根目录下** 
+1. ***下载*** **microsoft-windows-netfx3-ondemand-package.cab** 文件（[点击下载](http://files.cqjtujx.club/microsoft-windows-netfx3-ondemand-package.cab) | [网盘下载](http://pan-yz.chaoxing.com/share/info/ba6356b3e7895cfe) 密码 : **740uqc** | [备用下载](https://pan-yz.chaoxing.com/external/m/file/369529704427593728?name=microsoft-windows-netfx3-ondemand-package.cab&appId=1000) ）,并把该文件 ***移动*** 到 **C盘根目录下** 
 
 
 <img src="./移动到C盘_Powershell.png" width="40%" />
+
+
+2. ***右键*** **"开始菜单" 按钮**，然后 ***点击*** **“Windows PowerShell(管理员)(A)”** 打开PowerShell程序
+
+<img src="./打开_Powershell.png" width="40%" />
 
 3. ***输入*** 以下命令，然后 ***按下*** **回车**（即键盘上的 **Enter** 键 ）
 
@@ -59,5 +60,5 @@ tags: 软件安装
 
 <hr>
 
-[文章纠错](https://github.com/cqjtu-acm/article/issues) | 看不懂 | 投稿 | 提建议：477897024 (QQ群)
+[文章纠错](https://github.com/cqjtu-acm/help/issues) | 看不懂 | 投稿 | 提建议：477897024 (QQ群)
 

@@ -1,7 +1,8 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  存档: /archives
+  计协官网: http://www.cqjtujx.club/
 rss: /atom.xml
 
 # Content

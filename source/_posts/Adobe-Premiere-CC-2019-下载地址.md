@@ -10,7 +10,7 @@ Adobe Premiere Pro CC 2019 下载地址
 
 > ## 一、下载地址
 ### Adobe Premiere Pro各版本下载地址
-* Windows版本 : ( Adobe Premiere CC 2019 64位 : [网盘下载](http://pan-yz.chaoxing.com/share/info/84d21c1280831fc2) )
+* Windows版本 : ( Adobe Premiere CC 2019 64位 : [网盘下载](http://pan-yz.chaoxing.com/share/info/84d21c1280831fc2) | [备用下载](https://pan-yz.chaoxing.com/external/m/file/373116765396176896?name=Adobe_Premiere_Pro_2019_13.1.4.2_SP_20190725.rar&appId=1000) )
 #### 提示
 > * 解压密码：“**@vposy**”
 > * 以上破解版安装完成就是破解好的状态，**不需要**额外的破解步骤，可以**直接使用**。
@@ -21,4 +21,4 @@ Adobe Premiere Pro CC 2019 下载地址
 
 <hr>
 
-[文章纠错](https://github.com/cqjtu-acm/article/issues) | 看不懂 | 投稿 | 提建议：477897024 (QQ群)
+[文章纠错](https://github.com/cqjtu-acm/help/issues) | 看不懂 | 投稿 | 提建议：477897024 (QQ群)

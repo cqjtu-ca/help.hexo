@@ -9,7 +9,7 @@ tags: 软件安装
 <!--more-->
 <hr>
 
-大多数品牌的笔记本，可以使用这个在线安装程序([点击下载](http://pan-yz.chaoxing.com/share/info/d2b021f9f32dd09a))安装 **Office 家庭与学生版本**，执行就自动安装无需人工干预。安装完成后，会**自动激活Office**。
+大多数品牌的笔记本，可以使用这个在线安装程序([网盘下载](http://pan-yz.chaoxing.com/share/info/d2b021f9f32dd09a) | [备用下载](https://pan-yz.chaoxing.com/external/m/file/374197215924363264?name=Setup.Def.zh-CN_HomeStudentRetail_.exe&appId=1000) )安装 **Office 家庭与学生版本**，执行就自动安装无需人工干预。安装完成后，会**自动激活Office**。
 
 根据以往义修经验，**联想笔记本**很可能会出现**无法自动激活**的情况。如果还记得激活时登录的**微软账户**，可以尝试以下步骤，下载自己的Office安装程序。使用自己的Office安装程序，联想笔记本安装后也能自动激活。
 
@@ -30,5 +30,5 @@ tags: 软件安装
 
 <hr>
 
-[文章纠错](https://github.com/cqjtu-acm/article/issues) | 看不懂 | 投稿 | 提建议：477897024 (QQ群)
+[文章纠错](https://github.com/cqjtu-acm/help/issues) | 看不懂 | 投稿 | 提建议：477897024 (QQ群)
 
